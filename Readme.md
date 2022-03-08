@@ -7,3 +7,6 @@
 - [X] Step 6: Create a Lightsail DNS zone and map a domain to your WordPress instance
 - [X] Step 7: Create a snapshot of your Linux or Unix instance in Amazon Lightsail
 - [X] Step 8: Enable or disable automatic snapshots for instances or disks in Amazon Lightsail
+
+
+You can view the live resume website @ www.recruitimancrooks.com
