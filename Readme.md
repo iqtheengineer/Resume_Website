@@ -31,7 +31,7 @@
 <div align="center">
  
 <br>
- <img src = "readmepics/terraform.png" width = 300>
+ <img src = "readmeimages/giphy.gif" width = 300>
 
 <h3 align="center">Resume Website</h3>
   <p align="center">
